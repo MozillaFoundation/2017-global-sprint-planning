@@ -2,7 +2,7 @@
 
 Welcome to the 2017 Global Sprint Planning Repo!
 
-Here you'll find all the information you need about coordinating your hub or community's participation in the Global Sprint, a 2-day world-wide collaborative work sprint on open projects from all around the Mozilla community. Contributors and project leads gather in person at local sites; contributors can also participate virtually. This year's sprint takes place on June 1st and 2nd, 2017.
+Here you'll find all the information you need about coordinating your hub or community's participation in the Global Sprint, a 2-day world-wide collaborative work sprint on open projects from all around the Mozilla community. Contributors and project leads gather in person to work and hack and hangout together at local host sites. For those not near a host site, virtually participation and contribution is encouraged. This year's sprint takes place on June 1st and 2nd, 2017.
 
 
 ## Roadmaps/Timelines
