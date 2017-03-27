@@ -10,8 +10,7 @@ Here you'll find all the information you need about coordinating your hub or com
 * Checklist
 
 ## Projects
-* Project selection
-* Project checklist (to make projects contributor-ready)
+* Project selection & project checklist (to make projects contributor-ready)
 * Project FAQ (lead facing)
 
 ## Site hosting
@@ -25,8 +24,7 @@ Here you'll find all the information you need about coordinating your hub or com
 * Contributor FAQ (contributor-facing)
 
 ## Promotions and Communications
-* Channels
-* Sample communication schedule & templates
+* [Sample communication schedule & templates](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/communications/samples-and-templates.md)
 * Swag
 
 
