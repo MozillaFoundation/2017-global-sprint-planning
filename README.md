@@ -9,28 +9,24 @@ Here you'll find all the information you need about coordinating your hub or com
 * Timeline
 * Checklist
 
-## Site hosting
-* Site host role
-* Site requirements
-* What to do and expect (in advance, on-site, day-of)
-* Site Checklist
-* Site Host FAQ (host-facing)
-
 ## Projects
 * Project selection
-* Project lead role & qualities
 * Project checklist (to make projects contributor-ready)
 * Project FAQ (lead facing)
 
+## Site hosting
+* Site host role (what to do and expect, in advance, on-site, day-of) & site requirements
+* Site Checklist
+* Site Host FAQ (host-facing)
+
 ## Contributors
-* How to attract and welcome contributors
-* What contributors do and expect 
+* How to attract and welcome contributors, what contributors do and expect 
 * Post-sprint follow-up for further engagement
 * Contributor FAQ (contributor-facing)
 
 ## Promotions and Communications
 * Channels
-* Sample communication schedule
+* Sample communication schedule & templates
 * Swag
 
 
