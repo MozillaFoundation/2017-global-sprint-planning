@@ -14,14 +14,14 @@ When your Hub participates in the Global sprint, you:
 * Spark interest and prepare projects and participants for further collaboration in your own hubs and across the network
 * Supercharge your MozFest presence-- successful Sprint project leads make well-prepared Mozfest session presenters and active, engaged participants
 
-###How can my Hub and my communities participate?
+### How can my Hub and my communities participate?
 Anyone from across the network can join the Global sprint as a Project Lead, a Site Host, a Participant/Contributor, or a combination of roles. On the site we have instructions and info for each role. 
 
 * Project Leads bring their projects to the Sprint and facilitate contributions 
 * Site Hosts coordinate a local work space
 * Participants pitch in their varied amaizng skills and energy to push Sprint projects forward
 
-###What can Hub Leads and staff do to help ensure a successful Sprint?
+### What can Hub Leads and staff do to help ensure a successful Sprint?
 
 * **Recruit Sprint projects**  Direct potential leads to Global Sprint site and submission form. More about wrangling Projects & Project Leads here.
 * **Recruit Site Hosts** Aim to secure 5 sites. Partner groups, institutions or orgs make great site hosts. More about wrangling Sites here. 
@@ -29,7 +29,7 @@ Anyone from across the network can join the Global sprint as a Project Lead, a S
 * **Distribute Swag** Send out Global Sprint Swag (stickers, posters, etc) to site hosts and/or participants who request it.
 * **Gather Data about the Sprint** Help us collect metrics and assess the Sprint. Your community's participation metrics can be part of your Hub's year-end reporting, and help us all see how we are growing the Network. More about metrics and Assessment here. 
 
-###What kind of online tools and platforms will be in use for/at the Sprint?
+### What kind of online tools and platforms will be in use for/at the Sprint?
 * The Network-facing Global Sprint site
 * Ti.to for site and participant registration
 * We'll be using Network Pulse to feature Global Sprint Projects 
