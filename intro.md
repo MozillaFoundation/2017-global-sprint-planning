@@ -18,8 +18,8 @@ When your Hub participates in the Global sprint, you:
 Anyone from across the network can join the Global sprint as a Project Lead, a Site Host, a Participant/Contributor, or a combination of roles. On the site we have instructions and info for each role. 
 
 * Project Leads bring their projects to the Sprint and facilitate contributions 
-* Site Hosts coordinate a local work space
-* Participants pitch in their varied amaizng skills and energy to push Sprint projects forward
+* Site Hosts coordinate a local work space and promote the Sprint to their local communities
+* Participants bring their varied amazing skills and energy to push Sprint projects forward
 
 ### What can Hub Leads and staff do to help ensure a successful Sprint?
 
