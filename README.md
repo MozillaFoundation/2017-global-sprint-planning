@@ -1,8 +1,8 @@
 ## Welcome to the 2017 Global Sprint Planning Repo!
 
-Here you'll find all the information you need about coordinating your hub or community's participation in the Global Sprint, a 2-day world-wide collaborative work sprint on open projects from all around the Mozilla community. Contributors and project leads gather in person to work and hack and hang out together at local host sites. For those not near a host site, virtual participation and contribution is encouraged. In 2017, we're building out the global sprint with all the Hubs to create a truly diverse and far reaching event, bringing together contributors from all corners of the network-- educators, devs, activists and designers-- to collaborate on code, curriculum, and tools.
+Here you'll find all the information you need about coordinating your hub or community's participation in the Global Sprint, a 2-day world-wide collaborative work sprint on open projects from all around the Mozilla Network. At the Sprint, contributors and project leads gather in person to work, hack, and hang out together at local host sites. For those not near a host site, virtual participation is encouraged. In 2017, we're building out the Global Sprint with all the Hubs to create a truly diverse and far-reaching event, bringing together contributors from all corners of the network-- educators, devs, activists and designers-- to collaborate on code, curriculum, and tools.
  
- **This year's sprint takes place on June 1st and 2nd, 2017.** Check out the [community-facing Global Sprint Site]() here.
+ **This year's sprint takes place on June 1st and 2nd, 2017.** Check out the [community-facing Global Sprint Site](https://mozilla.github.io/global-sprint/) here.
 
 ### Why should my Hub Participate in the Global Sprint?
 Your Global Sprint participation can:
