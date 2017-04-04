@@ -13,9 +13,9 @@ Your Global Sprint participation can:
 * **Supercharge** your MozFest presence-- successful Sprint project leads make well-prepared Mozfest session presenters
 
 ### How can my Hub and my communities participate?
-Anyone from across the network can join the Global sprint as a Project Lead, a Site Host, a Participant/Contributor, or a combination of roles. On the community-facing site we have instructions and info for each role. 
+Anyone from across the network can join the Global sprint as a **Project Lead, a Site Host, a Participant/Contributor, or a combination of roles.** On the community-facing site we have information and instructions for each role (linked below). 
 
-* [Project Leads](https://mozilla.github.io/global-sprint/projects/ bring their projects to the Sprint and facilitate contributions 
+* [Project Leads](https://mozilla.github.io/global-sprint/projects/) bring their projects to the Sprint and facilitate contributions 
 * [Site Hosts](https://mozilla.github.io/global-sprint/site-hosts/) coordinate a local work space and promote the Sprint to their local communities
 * [Participants](https://mozilla.github.io/global-sprint/participants/) bring their varied amazing skills and energy to push Sprint projects forward
 
