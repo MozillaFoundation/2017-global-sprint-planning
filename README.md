@@ -7,18 +7,17 @@ Here you'll find all the information you need about coordinating your hub or com
 ### Why should my Hub Participate in the Global Sprint?
 Your Global Sprint participation can:
 
-* Energize community projects and push them forward
-* Strengthen connections within your community and create new connections across Mozilla
-* Support those from your community preparing Global Sprint projects through Open Leadership Training 
-* Hear voices and see faces from around Mozilla’s diverse global community
-* Supercharge your MozFest presence-- successful Sprint project leads make well-prepared Mozfest session presenters
+* **Energize** community projects and push them forward
+* **Strengthen** connections within your community and create new connections across Mozilla
+* **Support** those from your community preparing Global Sprint projects through Open Leadership Training 
+* **Supercharge** your MozFest presence-- successful Sprint project leads make well-prepared Mozfest session presenters
 
 ### How can my Hub and my communities participate?
-Anyone from across the network can join the Global sprint as a Project Lead, a Site Host, a Participant/Contributor, or a combination of roles. On the site we have instructions and info for each role. 
+Anyone from across the network can join the Global sprint as a Project Lead, a Site Host, a Participant/Contributor, or a combination of roles. On the community-facing site we have instructions and info for each role. 
 
-* Project Leads bring their projects to the Sprint and facilitate contributions 
-* Site Hosts coordinate a local work space and promote the Sprint to their local communities
-* Participants bring their varied amazing skills and energy to push Sprint projects forward
+* [Project Leads](https://mozilla.github.io/global-sprint/projects/ bring their projects to the Sprint and facilitate contributions 
+* [Site Hosts](https://mozilla.github.io/global-sprint/site-hosts/) coordinate a local work space and promote the Sprint to their local communities
+* [Participants](https://mozilla.github.io/global-sprint/participants/) bring their varied amazing skills and energy to push Sprint projects forward
 
 ### What can Hub Leads and staff do to help ensure a successful Sprint?
 
