@@ -25,10 +25,10 @@ Anyone from across the network can join the Global sprint as a **Project Lead, a
 * **Recruit Site Hosts** Aim to secure 5 sites. Partner groups, institutions or orgs make great site hosts. More about wrangling Sites here. 
 * **Recruit Participants** Get the word out! Blog, tweet, and post on your preferred social media sites about the Sprint! Highlight it in your community calls and other comms! More about comms here.
 * **Distribute Swag** Send out Global Sprint Swag (stickers, posters, etc) to site hosts and/or participants who request it.
-* **Gather Data about the Sprint** Help us collect metrics and assess the Sprint. Your community's participation metrics can be part of your Hub's year-end reporting, and help us all see how we are growing the Network. More about metrics and Assessment here. 
+* **Gather Data about the Sprint** Help us collect metrics and assess the Sprint. Your community's participation metrics can be part of your Hub's year-end reporting, and help us all see how we are growing the Network. More about metrics and Assessment coming soon!
 
 ### What kind of online tools and platforms will be in use for/at the Sprint?
-* The Network-facing Global Sprint site
+* [The Network-facing Global Sprint site](https://mozilla.github.io/global-sprint/)
 * Ti.to for site and participant registration
 * Network Pulse to feature Global Sprint Projects 
 * Vidyo and Gitter Chat or Slack for Sprint Communications.
