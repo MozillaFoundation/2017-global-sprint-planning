@@ -36,5 +36,6 @@ See this roadmap for key sprint dates for registration, communications, etc.
 * Network Pulse to feature Global Sprint Projects 
 * Vidyo and Gitter Chat or Slack for Sprint Communications.
 
-
-
+### I have questions, who do I ask?
+* Ask any questions in our [Slack Channel](https://mozilla.slack.com/archives/C4V12UTGV)
+* For general questions, ask the Mozilla Science Lab Team at sciencelab@mozilla.org
