@@ -15,7 +15,7 @@ The project lead role is key for a successful run in the Global Sprint! Strong L
 **TIPS ON SELECTING PROJECTS AND LEADS:**
 * You know your communities best, and you'll know those who are best prepared to lead. 
 * Reach out to strong community members and invite them to submit projects!
-* If an enthusiastic community member seems less prepared to lead, point them to [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101) or modules of the [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) to brush up on skills such as documentation, communications, and  community building.
+* If an enthusiastic community member is less prepared to lead, point them to [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101) or modules of the [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) to brush up on skills like documentation, comms, and community building.
 * Pair enthusiastic, capable community members who don't have their own project with project leads who need more help. 
 
 
