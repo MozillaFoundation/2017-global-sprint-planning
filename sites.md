@@ -20,11 +20,12 @@ Just as with MozFest and other face to face events, this is an amazing opportuni
 We don't currently have any financial resources to support Sites (for example, to pay for rentals of space or equipment or snacks) but we do provide support, signage, and swag for participants.
 
 ### About Site Hosts
-Your Site Hosts should be prepared to create a welcoming space for all participants, and help to enforce Participation Guidelines. Ideally, Site Hosts areP
+Your Site Hosts should be prepared to create a welcoming space for all participants, and help to enforce Participation Guidelines. Ideally, Site Hosts are,
 
-* reliable and responsible; welcoming and approachable
-* well-connected, natural networkers who can really promote the Sprint via social media, email lists, blogging, etc. 
-* tech savvy and prepared coordinate communications with their Site
+* *reliable* and responsible
+* *welcoming* and approachable
+* *well-connected, natural networkers* who can really promote the Sprint via social media, email lists, blogging, etc. 
+* * relatively tech-savvy* and prepared coordinate communications with their Site
 
 You'll know who in your community would be best suited to be a Site Host-- reach out and encourage them to register!
 
