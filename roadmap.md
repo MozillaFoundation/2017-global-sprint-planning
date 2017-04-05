@@ -1,15 +1,15 @@
 ## DRAFT 2017 Roadmap 
 *subject to change*
 
-* **T-10 Weeks: ( week of March 27)** 
+* **T-10 Weeks: (week of March 27)** 
    * Initial announcement & Save the Date
 
-* **T-8 Weeks: ( week of April 03)** 
+* **T-8 Weeks: (week of April 03)** 
    * Hub Leads Meeting
    * Plan swag
    * Comms meeting and strategy
 
-* **T-7 Weeks: (April 10)** 
+* **T-7 Weeks: (week of April 10)** 
   * Project submission form opens
   * Private solicitation for projects email
   * Site submission form opens
@@ -19,20 +19,20 @@
   * Comms per plan
 
 
-* **T-3 Weeks: (May 8)** 
+* **T-3 Weeks: (week of May 8)** 
   * Site submissions closes
   * Progress meeting
   * Comms per plan
 
 
-* **T-2 weeks: (May 15)** 
+* **T-2 weeks: (week of May 15)** 
   * Final call for projects
   * Webconferencing testing with Site Hosts starts
   * A/V Testing Schedule for Site Hosts
   * Finalize “Day Of” format for check-in / demos schedules
   * Comms per plan
 
-* **T-2 Weeks: (May 22)** 
+* **T-2 Weeks: (week of May 22)** 
   * Project submission closes
   * Comms per plan
 
