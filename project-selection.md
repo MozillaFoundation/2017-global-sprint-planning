@@ -1,6 +1,6 @@
 # Selecting Projects for the Global Sprint
 
-Review the [Project Lead](https://mozilla.github.io/global-sprint/projects/) and [Project Requirements](https://mozilla.github.io/global-sprint/project-requirements/) here.
+Review the [Project Lead info](https://mozilla.github.io/global-sprint/projects/) and [Project Requirements](https://mozilla.github.io/global-sprint/project-requirements/) here.
 
 ### Workflow for Project Registration
 1. Project Lead (PL) fills out the [project submission form](https://goo.gl/forms/lvzjKt981TK9P3XQ2). Form includes box to check for Hub association/connection.
