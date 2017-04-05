@@ -4,9 +4,9 @@ Review the [Project Lead](https://mozilla.github.io/global-sprint/projects/) and
 
 ### Workflow for Project Registration
 1. Project Lead (PL) fills out the project submission form. Form includes box to check for Hub association/connection.
-2. PL receives email with link to issue template & checklist. Designated Hub Contact (HC) is automatically cc'ed on this email 
-3. PL makes issue; HC is tagged automatically to be notified that this step is completed
-4. HC reviews issue, and add labels for tracks, comments on issue as needed to answer questions. 
+2. PL receives email with link to issue template & checklist. Designated Hub Contact (HC) is automatically cc'ed. 
+3. PL makes issue; HC is tagged automatically to be notified of the new issue.
+4. HC reviews issue, and add labels for tracks, comments and answers questions as needed. 
 5. If/when PL completes checklist to be featured project, HC adds project to Network Pulse with Global Sprint tags.
 
 ### About Project Leads
