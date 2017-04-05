@@ -27,6 +27,9 @@ Anyone from across the network can join the Global sprint as a **Project Lead, a
 * **Distribute Swag** Send out Global Sprint Swag (stickers, posters, etc) to site hosts and/or participants who request it.
 * **Gather Data about the Sprint** Help collect metrics and assess the Sprint. **Your community's metrics can add to your Hub's year-end reporting, and show how you help the Network grow.** More about metrics and assessment coming soon!
 
+### What's the timeline for my participation in the Sprint? What needs to be done when?
+See this roadmap for key sprint dates for registration, communications, etc. 
+
 ### What kind of online tools and platforms will be in use for/at the Sprint?
 * [The Network-facing Global Sprint site](https://mozilla.github.io/global-sprint/)
 * Ti.to for site and participant registration
