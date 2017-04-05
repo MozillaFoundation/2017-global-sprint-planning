@@ -22,10 +22,10 @@ We don't currently have any financial resources to support Sites (for example, t
 ### About Site Hosts
 Your Site Hosts should be prepared to create a welcoming space for all participants, and help to enforce Participation Guidelines. Ideally, Site Hosts are,
 
-* *reliable* and responsible
-* *welcoming* and approachable
-* *well-connected, natural networkers* who can really promote the Sprint via social media, email lists, blogging, etc. 
-* * relatively tech-savvy* and prepared coordinate communications with their Site
+* **reliable** and responsible
+* **welcoming** and approachable
+* **well-connected, natural networkers** who can really promote the Sprint via social media, email lists, blogging, etc. 
+* **relatively tech-savvy** and prepared coordinate communications with their Site
 
 You'll know who in your community would be best suited to be a Site Host-- reach out and encourage them to register!
 
