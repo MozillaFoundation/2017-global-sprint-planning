@@ -7,7 +7,7 @@ Each Hub should aim to bring 3-5 Sites or more, to the Sprint. More Sites means 
 
 1. Aspiring Site Host (SH) fills out the Site Host Registration with checkbox for Hub affiliation
 2. SH receives email with link to issue template & checklist. Designated Hub Contact (HC) is automatically cc'ed.
-3. HC creates at Ti.to event for the Site, and adds Site Host as administrator. 
+3. HC creates at Ti.to event for the Site, and adds SH as administrator. 
 4. Event is automatically added to our Site Map, and participants can register to attend. 
 5. SH monitors the Ti.to event throughout registration
 6. As event date nears, HC sends out swag packs and signage templates to Site Hosts, and generally answers questions.
