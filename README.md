@@ -34,8 +34,4 @@ Anyone from across the network can join the Global sprint as a **Project Lead, a
 * Vidyo and Gitter Chat or Slack for Sprint Communications.
 
 
-## Promotions and Communications
-* [Sample communication schedule & templates](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/communications/samples-and-templates.md)
-* Swag
-
 
