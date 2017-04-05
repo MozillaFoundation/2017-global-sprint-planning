@@ -17,7 +17,7 @@ Anyone from across the network can join the Global sprint as a **Project Lead, a
 
 * [Project Leads](https://mozilla.github.io/global-sprint/projects/) bring their projects to the Sprint and facilitate contributions 
 * [Site Hosts](https://mozilla.github.io/global-sprint/site-hosts/) coordinate a local work space and promote the Sprint to their local communities
-* [Participants](https://mozilla.github.io/global-sprint/participants/) bring their varied amazing skills and energy to push Sprint projects forward
+* [Participants](https://mozilla.github.io/global-sprint/participants/) bring their varied amazing skills and energy to push Sprint projects forward.
 
 ### What can Hub Leads and staff do to help ensure a successful Sprint?
 
