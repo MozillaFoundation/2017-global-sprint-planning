@@ -1,6 +1,7 @@
 # Wrangling Sites for Global Sprint
 
-Reveiew the [Site Hosts info](https://mozilla.github.io/global-sprint/projects/). Each Hub should aim to bring 5 sites to the Sprint. The more Sites you can spin up, the more participation and community building 
+Reveiew the [Site Hosts info](https://mozilla.github.io/global-sprint/projects/).
+Each Hub should aim to bring 3-5 Sites or more, to the Sprint. More Sites means more participation, project work, and community building!
 
 ### Workflow for Sites
 
