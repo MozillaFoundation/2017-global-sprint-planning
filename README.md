@@ -22,7 +22,7 @@ Anyone from across the network can join the Global sprint as a **Project Lead, a
 ### What can Hub Leads and staff do to help ensure a successful Sprint?
 
 * **Recruit Sprint projects**  Direct potential leads to Global Sprint site and submission form. [More about wrangling Projects & Project Leads here.](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/project-selection.md)
-* **Recruit Site Hosts** Aim to secure 5 sites. Partner groups, institutions or orgs make great site hosts. [More about wrangling Sites here.}(https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/sites.md) 
+* **Recruit Site Hosts** Aim to secure 5 sites. Partner groups, institutions or orgs make great site hosts. [More about wrangling Sites here.](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/sites.md) 
 * **Recruit Participants** Get the word out! Blog, tweet, and post on your preferred social media sites about the Sprint! Highlight it in your community calls and other comms! [More about comms here.](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/communications.md)
 * **Distribute Swag** Send out Global Sprint Swag (stickers, posters, etc) to site hosts and/or participants who request it.
 * **Gather Data about the Sprint** Help us collect metrics and assess the Sprint. Your community's participation metrics can be part of your Hub's year-end reporting, and help us all see how we are growing the Network. More about metrics and Assessment coming soon!
