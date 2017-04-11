@@ -16,21 +16,33 @@
   * Private solicitation for sites email
   * Mo-Fo wide Sprint meeting
   * Finalize Swag
-  * Comms per plan
+  * Coms (blog post, FB or other)
 
+WEEKLY
+1x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
+mention examplar projects added or sites
+
+
+EARLY MAY
+2x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
+mention examplar projects added or sites
+link to Moz-wide comms
 
 * **T-3 Weeks: (week of May 8)** 
   * Site submissions closes
   * Progress meeting
-  * Comms per plan
-
-
+ 
 * **T-2 weeks: (week of May 15)** 
   * Final call for projects
   * Webconferencing testing with Site Hosts starts
   * A/V Testing Schedule for Site Hosts
   * Finalize “Day Of” format for check-in / demos schedules
   * Comms per plan
+
+WEEKLY
+3x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
+mention examplar projects added or sites
+link to moz wide coms
 
 * **T-2 Weeks: (week of May 22)** 
   * Project submission closes
