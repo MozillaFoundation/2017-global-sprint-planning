@@ -9,14 +9,14 @@
    * Plan swag
    * Comms meeting and strategy
 
-* **T-7 Weeks: (week of April 10)** 
+* **T-7 Weeks: (weeks of April 10 and April 17)** 
   * Project submission form opens
   * Private solicitation for projects email
   * Site submission form opens
   * Private solicitation for sites email
-  * Mo-Fo wide Sprint meeting
+  * Mo-Fo wide Sprint meeting (April 13, [watch here on AirMo](https://air.mozilla.org/2017-global-sprint-info-session/)
   * Finalize Swag
-  * Coms (blog post, FB or other)
+  * **Hubs blog to announce the Sprint!**
 
 WEEKLY
 1x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
