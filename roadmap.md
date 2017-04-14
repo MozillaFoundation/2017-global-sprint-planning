@@ -14,7 +14,7 @@
   * Private solicitation for projects email
   * Site submission form opens
   * Private solicitation for sites email
-  * Mo-Fo wide Sprint meeting (April 13, [watch here on AirMo](https://air.mozilla.org/2017-global-sprint-info-session/)
+  * Mo-Fo wide Sprint meeting (April 13, [watch here on AirMo](https://air.mozilla.org/2017-global-sprint-info-session/))
   * Finalize Swag
   * **Hubs blog to announce the Sprint!**
 
@@ -40,7 +40,7 @@
   * Finalize “Day Of” format for check-in / demos schedules
   * Comms per plan
 
-* **WEEKLY From May 22 through June 02**
+* **WEEKLY From May 22 through May 31**
    * mention the Sprint 3 x weekly via tweet, FB post, mentions in newsletter or other regular communications 
    * point people back to your Hub Sprint blog post (see above) and the GS site
    * mention exciting projects that have been added, or new host sites, other news
