@@ -18,15 +18,16 @@
   * Finalize Swag
   * **Hubs blog to announce the Sprint!**
 
-WEEKLY
-1x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
-mention examplar projects added or sites
+* **WEEKLY From April 17 to April 30**
+   * mention the Sprint 1 x weekly via tweet, FB post, mentions in newsletter, community calls, or other regular communications 
+   * point people back to your Hub Sprint blog post (see above) and the GS site
+   * mention exciting projects that have been added, or new host sites
 
-
-EARLY MAY
-2x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
-mention examplar projects added or sites
-link to Moz-wide comms
+* **WEEKLY From May 1 through May 19**
+   * mention the Sprint 2 x weekly via tweet, FB post, mentions in newsletter or other regular communications 
+   * point people back to your Hub Sprint blog post (see above) and the GS site
+   * mention exciting projects that have been added, or new host sites, other news
+   * highlight deadlines for project submission and site host registration
 
 * **T-3 Weeks: (week of May 8)** 
   * Site submissions closes
@@ -39,19 +40,15 @@ link to Moz-wide comms
   * Finalize “Day Of” format for check-in / demos schedules
   * Comms per plan
 
-WEEKLY
-3x Coms (smaller tweets, FB,  mention in newsletter or regular comms etc point people back to blog post, and site)
-mention examplar projects added or sites
-link to moz wide coms
+* **WEEKLY From May 22 through June 02**
+   * mention the Sprint 3 x weekly via tweet, FB post, mentions in newsletter or other regular communications 
+   * point people back to your Hub Sprint blog post (see above) and the GS site
+   * mention exciting projects that have been added, or new host sites, other news
+   * link to Moz-wide communications
+   * highlight countdown to event!
 
 * **T-2 Weeks: (week of May 22)** 
   * Project submission closes
-  * Comms per plan
-
-
-* **T-6 Days: (May 26)** 
-  * Comms per plan
-
 
 * **T+0 Days: (June 01 )**
    * Begin live broadcast
@@ -65,7 +62,6 @@ link to moz wide coms
    * Project lead thank you email
    * Site host thank you email
    * Follow-up on post-event surveys
-
 
 * **T+5 Days: (June 08)**
   * Report back
