@@ -19,5 +19,11 @@ The Project Lead role is key for a successful run in the Global Sprint! Strong L
 * Pair enthusiastic, capable community members who don't have projects with Project Leads who need more help. 
 
 
+### How to wrangle projects
 
+*** Using labels ***
+
+*** Posting to Mozilla Pulse ***
+
+*** How to reassign a project ***
 
