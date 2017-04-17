@@ -48,7 +48,7 @@
    * highlight countdown to event!
 
 * **T-2 Weeks: (week of May 22)** 
-  * Project submission closes
+  * Project submission **closes May 26**
 
 * **T+0 Days: (June 01 )**
    * Begin live broadcast
