@@ -21,9 +21,22 @@ The Project Lead role is key for a successful run in the Global Sprint! Strong L
 
 ### How to wrangle projects
 
-***Using labels***
+#### Using labels
+Use the GitHub labels to curate the projects in your community/area. You can also add labels that correspond with the Mozilla's issues agenda.
 
-***Posting to Mozilla Pulse***
+#### Posting to Mozilla Pulse
+Once the project lead posts `This is ready for Mozilla Pulse`, check that they have completed all the steps to be a FEATURED project. If all's in order, [post the project to Mozilla Pulse](https://www.mozillapulse.org/add).
 
-***How to reassign a project***
+* **Title** Use the title of the issue
+* **URL** If the project has a landing page, add that here. Otherwise, link to the GitHub repo.
+* **Description** Use the description the project lead provided - it should be in the first (top) comment of the issue.
+* **Creator(s)** Add the project lead name(s)
+* **Why might this be interesting to other people in our network?** Add your own thoughts here. Feel free to leave blank.
+* **Tags** Add the tags `mozsprint` and `2017`
+* **Key Internet Issues** Add the issues the project lead indiciated. Feel free to curate if you think another issue is better.
+* **Looking for support?...** Add text similar to "If you're interested in contributing to this project jump in on the GitHub repository now or join us during #mozsprint June 1-2, 2017!" Feel free to remix!
+* **Link for people to get involved.** Add a link to the `mozsprint` label on GitHub. It should be `https://github.com/OWNER/REPO/labels/mozsprint`
+* **Project image** Upload the image the project lead provided on the issue
 
+#### How to reassign a project
+If you think a project is better suited for another community, tag another wrangler in the comments.
