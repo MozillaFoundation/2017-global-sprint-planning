@@ -32,7 +32,7 @@ Once the project lead posts `This is ready for Mozilla Pulse`, check that they h
 * **Description** Use the description the project lead provided - it should be in the first (top) comment of the issue.
 * **Creator(s)** Add the project lead name(s)
 * **Why might this be interesting to other people in our network?** Add your own thoughts here. Feel free to leave blank.
-* **Tags** Add the tags `mozsprint` and `2017`
+* **Tags** Add the tags `mozsprint` and `2017`  **!!! < THIS IS VERY IMPORTANT !!!!**
 * **Key Internet Issues** Add the issues the project lead indiciated. Feel free to curate if you think another issue is better.
 * **Looking for support?...** Add text similar to "If you're interested in contributing to this project jump in on the GitHub repository now or join us during #mozsprint June 1-2, 2017!" Feel free to remix!
 * **Link for people to get involved.** Add a link to the `mozsprint` label on GitHub. It should be `https://github.com/OWNER/REPO/labels/mozsprint`
