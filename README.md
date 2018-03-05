@@ -1,4 +1,4 @@
-## Welcome to the 2017 Global Sprint Planning Repo!
+## Welcome to the 2018 Global Sprint Planning Repo!
 
 Here you'll find all the information you need to coordinate your hub or community's participation in the Global Sprint, a 2-day world-wide collaborative work sprint on open projects from all around the Mozilla Network. At the Sprint, contributors and project leads gather in person to work, hack, and hang out together at local host sites. For those not near a host site, virtual participation is encouraged. In 2017, we're building out the Global Sprint with all the Hubs to create a truly diverse and far-reaching event, bringing together contributors from all corners of the network-- educators, devs, activists and designers-- to collaborate on code, curriculum, and tools.
  
